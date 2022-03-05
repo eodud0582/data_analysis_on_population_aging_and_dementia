@@ -1,6 +1,8 @@
 # Data Analysis on Population Aging and Dementia
 ## 1인가구, 고령화, 치매 등 사회적 문제에 대한 데이터 분석
 
+![image](https://user-images.githubusercontent.com/38115693/156875750-49aab0cc-fc78-4e8d-9820-fb95b0676937.png)
+
 ## 프로젝트 배경
 - **고령 인구와 1인가구 수의 증가**
 - 온라인 위주의 예매, 구매 등 첨단 기술의 빠른 발달 및 디지털 전환
